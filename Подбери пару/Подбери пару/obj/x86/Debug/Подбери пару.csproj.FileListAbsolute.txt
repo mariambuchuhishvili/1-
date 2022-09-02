@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\bin\Debug\Подбери пару.exe
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\bin\Debug\Подбери пару.pdb
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери_пару.Form1.resources
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери_пару.Properties.Resources.resources
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.exe
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.pdb
+C:\Users\Asus\Desktop\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.csprojResolveAssemblyReference.cache
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.exe
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.pdb
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\bin\Debug\Подбери пару.exe
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\bin\Debug\Подбери пару.pdb
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.csprojResolveAssemblyReference.cache
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери_пару.Form1.resources
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери_пару.Properties.Resources.resources
+C:\1 КУРС\с#\2 семестр\дистанционка\Подбери пару\Подбери пару\obj\x86\Debug\Подбери пару.csproj.GenerateResource.Cache
